@@ -19,7 +19,7 @@ You can find everything useful about Nanogenerators and Self-powered Systems (�
 
 ### Reccomend Reading
 
-- Zhong Lin Wang, “ _Nanogenerators for self-powered devices and systems_ ” [Download ](https://smartech.gatech.edu/handle/1853/39262)
+- Zhong Lin Wang, “ _Nanogenerators for self-powered devices and systems_ ”[Download ](https://smartech.gatech.edu/handle/1853/39262)
 - Zhong Lin Wang et al, “ _Triboelectric Nanogenerators_ ”,  Springer, 2016.  [Download](https://cloud.tsinghua.edu.cn/f/8377bcf78eab475ab027/?dl=1)
 - Zhong Lin Wang, “ _Piezotronics and Piezo Phototronics_ ”,  Springer, 2013.[Download](https://cloud.tsinghua.edu.cn/f/84cba97b3b234cdf9fa8/?dl=1)
 
