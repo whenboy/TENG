@@ -18,11 +18,11 @@ You can find everything useful about the course Nanogenerators and Self-powered 
 
 ### Notes and Slides
 
-1. 
+1. Lecture 1
 
 ### Assignments
 
-1. 
+1. Assignment 1 (DUE XXXX)
 
 ## Miscellaneous
 
