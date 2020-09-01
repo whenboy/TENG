@@ -5,7 +5,6 @@ You can find everything useful about Nanogenerators and Self-powered Systems (็บ
 ### What is the TENG
 
 **TENG** is a ... for
- ![A summary on the progress made in the output power density of triboelectric nanogenerators within 12 months.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/A_summary_on_the_progress_made_in_the_output_power_density_of_triboelectric_nanogenerators_within_12_months..tif/lossless-page1-880px-A_summary_on_the_progress_made_in_the_output_power_density_of_triboelectric_nanogenerators_within_12_months..tif.png)
 
 
 ## Course Materials
