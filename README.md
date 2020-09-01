@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Nanogenerators and Self-powered Systems Course Pages
 
-You can use the [editor on GitHub](https://github.com/WangZihan-TBSI/TENG.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find everything useful about Nanogenerators and Self-powered Systems (纳米发电机与自驱动系统 86000993).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is the TENG
 
-### Markdown
+TENG is a ... for
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Course Materials
+### Notes and Slides
+### Assignments
 
 - Bulleted
 - List
@@ -24,14 +21,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## miscellaneous
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WangZihan-TBSI/TENG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Please be awear ...
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with something? Contact me wangzh19 AT mails.tsinghua.edu.cn or Dr Ding  ding.wenbo AT sz.tsinghua.edu.cn  and we’ll help you sort it out.
