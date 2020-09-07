@@ -32,5 +32,6 @@ Attendence will plays as a part of your final grading. Please ask for a leave at
 
 ### Support or Contact
 
-Having trouble with something? 
-Contact TA: wangzh19 AT mails.tsinghua.edu.cn or Dr Wenbo Ding  ding.wenbo AT sz.tsinghua.edu.cn  and we’ll help you sort it out.
+Having trouble with something? We’ll help you sort it out.
+Contact TA: wangzh19 AT mails.tsinghua.edu.cn
+Contact Professor:  ding.wenbo AT sz.tsinghua.edu.cn
