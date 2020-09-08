@@ -1,12 +1,12 @@
-# Welcome,
+# Welcome:
 
 You can find everything useful about the course Nanogenerators and Self-powered Systems (纳米发电机与自驱动系统 86000993).
 
-#### Our Class time: Monday 2PM - 4.25PM
+**Our Class time:** Monday 2PM - 4.25PM
 
-#### Off-line class room: 801 Information Building
+**Off-line class room:** 801 Information Building
 
-#### Online classroom: TBD
+**Online classroom:** TBD
 
 ### What is the TENG
 
@@ -30,7 +30,7 @@ You can find everything useful about the course Nanogenerators and Self-powered 
 
 ### Assignments
 
-% #### Assignment 1 (DUE XXXX)
+; #### Assignment 1 (DUE XXXX)
 
 ## Miscellaneous
 
