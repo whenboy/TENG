@@ -32,7 +32,7 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 ### Assignments
 
-; #### Assignment 1 (DUE XXXX)
+
 
 ## Miscellaneous
 
