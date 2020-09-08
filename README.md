@@ -2,6 +2,10 @@
 
 You can find everything useful about the course Nanogenerators and Self-powered Systems (纳米发电机与自驱动系统 86000993).
 
+#### Our Class time: Monday 2PM - 4.25PM 
+#### Off-line class room: 801 Information Building
+#### Online classroom: TBD
+
 ### What is the TENG
 
 **TENG** is invented by [Prof ZhongLin WANG](http://www.nanoscience.gatech.edu/group/Current%20Members/Group%20Leader/Zhong%20Lin%20Wang.php) in 2012, His discovery and breakthroughs in developing nanogenerators establish the principle and technological road map for harvesting mechanical energy from environment and biological systems for powering mobile sensors ...
