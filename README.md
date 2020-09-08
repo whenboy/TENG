@@ -14,11 +14,11 @@ You can find everything useful about the course Nanogenerators and Self-powered 
 
 ### Reccomend Reading
 
-- Zhong Lin Wang, “ _Nanogenerators for self-powered devices and systems_”[Download](https://smartech.gatech.edu/handle/1853/39262)
+- Zhong Lin Wang, “ _Nanogenerators for self-powered devices and systems_”（[Download](https://smartech.gatech.edu/handle/1853/39262)）
 
-- Zhong Lin Wang et al, “ _Triboelectric Nanogenerators_ ”,  Springer, 2016.[PDF](https://cloud.tsinghua.edu.cn/f/2af5baf37ef14af68432/?dl=1) [ePub](https://cloud.tsinghua.edu.cn/f/8d917eb044c241e19867/?dl=1)
+- Zhong Lin Wang et al, “ _Triboelectric Nanogenerators_ ”,  Springer, 2016.（[PDF](https://cloud.tsinghua.edu.cn/f/2af5baf37ef14af68432/?dl=1) ）（[ePub](https://cloud.tsinghua.edu.cn/f/8d917eb044c241e19867/?dl=1)）
 
-- Zhong Lin Wang, “ _Piezotronics and Piezo Phototronics_ ”,  Springer, 2013.[PDF](https://cloud.tsinghua.edu.cn/f/84cba97b3b234cdf9fa8/?dl=1) [ePub](https://cloud.tsinghua.edu.cn/f/fc3817946ec548168f9a/?dl=1)
+- Zhong Lin Wang, “ _Piezotronics and Piezo Phototronics_ ”,  Springer, 2013.（[PDF](https://cloud.tsinghua.edu.cn/f/84cba97b3b234cdf9fa8/?dl=1)）（ [ePub](https://cloud.tsinghua.edu.cn/f/fc3817946ec548168f9a/?dl=1)）
 
 ## Course Materials
 
