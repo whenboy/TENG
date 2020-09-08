@@ -6,7 +6,9 @@ You can find everything useful about the course Nanogenerators and Self-powered 
 
 **Off-line class room:** 801 Information Building
 
-**Online classroom:** TBD
+**Online classroom:** Tencent Meeting (VooV) 
+ID:389488748
+https://meeting.tencent.com/s/hqvFIBrok5lE
 
 ### What is the TENG
 
