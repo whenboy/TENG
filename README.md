@@ -23,15 +23,21 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 - Zhong Lin Wang, “ _Piezotronics and Piezo Phototronics_ ”,  Springer, 2013.（[PDF](https://cloud.tsinghua.edu.cn/f/84cba97b3b234cdf9fa8/?dl=1)）（ [ePub](https://cloud.tsinghua.edu.cn/f/fc3817946ec548168f9a/?dl=1)）
 
-#### Papers
-
 ## Course Materials
 
 ### Week 1
 
 #### Slides [PDF](https://cloud.tsinghua.edu.cn/f/cd7b43a876654bb99d5e/)
 
-### Course Recording [MP4]()
+#### Mentioned Papers
+
+- Stanford the [hand-powered centrifuge](https://www.nature.com/articles/s41551-016-0009)
+
+- Gang Chen 2018 Nature Energy [Solar-driven interfacial evaporation](https://www.nature.com/articles/s41560-018-0260-7)
+
+- MIT media Lab [Energy Scavenging for Mobile and Wireless Electronics](https://ieeexplore.ieee.org/document/1401839)
+
+#### Course Recording (Editing ...) [MP4]()
 
 ## Final Project and Presentation
 
