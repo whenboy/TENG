@@ -16,31 +16,38 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 ### Reccomend Reading
 
+#### Books
 - Zhong Lin Wang, “ _Nanogenerators for self-powered devices and systems_”（[Download](https://smartech.gatech.edu/handle/1853/39262)）
 
 - Zhong Lin Wang et al, “ _Triboelectric Nanogenerators_ ”,  Springer, 2016.（[PDF](https://cloud.tsinghua.edu.cn/f/2af5baf37ef14af68432/?dl=1) ）（[ePub](https://cloud.tsinghua.edu.cn/f/8d917eb044c241e19867/?dl=1)）
 
 - Zhong Lin Wang, “ _Piezotronics and Piezo Phototronics_ ”,  Springer, 2013.（[PDF](https://cloud.tsinghua.edu.cn/f/84cba97b3b234cdf9fa8/?dl=1)）（ [ePub](https://cloud.tsinghua.edu.cn/f/fc3817946ec548168f9a/?dl=1)）
 
+#### Papers
+
 ## Course Materials
 
-### Notes and Slides
+### Week 1
 
-#### Lecture 1
+#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/cd7b43a876654bb99d5e/)
 
-### Course Recording
+### Course Recording [MP4]()
 
-### Assignments
+## Final Project and Presentation
 
+### Option 1: Literature Review (No less than 150 papers)
+
+### Option 2: Technical Report
 
 
 ## Miscellaneous
 
 ### Administrations
 
-Attendence will plays as a part of your final grading. Please ask for a leave at least 24 hours before the lecture by sending email to TA. If permitted, you will receieve email reply.
+Attendence will plays as a part of your final grading. Please ask for absence at least 24 hours before the lecture by sending email to TA. If permitted, you will receieve email reply.
+**One time absence or late = 3 final score less**
 
-### Support or Contact
+### Need Support?
 
 Having trouble with something? We’ll help you sort it out.
 Contact TA: wangzh19 AT mails.tsinghua.edu.cn
