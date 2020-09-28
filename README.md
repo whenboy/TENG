@@ -37,7 +37,12 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 - MIT media Lab [Energy Scavenging for Mobile and Wireless Electronics](https://ieeexplore.ieee.org/document/1401839)
 
-#### Course Recording (Editing ...) [MP4]()
+### Week2
+
+#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/dea2005762d94aa4adf5/)
+
+## LabView learning materials
+
 
 ## Final Project and Presentation
 
