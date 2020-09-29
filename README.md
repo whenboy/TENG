@@ -41,6 +41,10 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 #### Slides [PDF](https://cloud.tsinghua.edu.cn/f/dea2005762d94aa4adf5/)
 
+### Week3
+
+#### Slides from guest speaker [PDF](https://cloud.tsinghua.edu.cn/f/e6f3d43bcd23401c9b09/)
+
 ## LabView learning materials
 
 
