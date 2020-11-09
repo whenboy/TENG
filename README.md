@@ -27,11 +27,11 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
 ### Week 1
 
-#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/cd7b43a876654bb99d5e/)
+#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/57df12b143f740cd9cfe/)
 
 #### Mentioned Papers
 
-- Stanford the [hand-powered centrifuge](https://www.nature.com/articles/s41551-016-0009)
+- Stanford [the hand-powered centrifuge](https://www.nature.com/articles/s41551-016-0009)
 
 - Gang Chen 2018 Nature Energy [Solar-driven interfacial evaporation](https://www.nature.com/articles/s41560-018-0260-7)
 
@@ -48,6 +48,10 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 ### Week4
 
 #### Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
+
+#### Mentioned Papers
+
+ - [A Droplet to light 1000 LEDs](https://www.nature.com/articles/s41586-020-1985-6)
 
 ## LabView learning materials
 
