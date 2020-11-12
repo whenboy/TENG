@@ -53,6 +53,12 @@ https://meeting.tencent.com/s/hqvFIBrok5lE
 
  - [A Droplet to light 1000 LEDs](https://www.nature.com/articles/s41586-020-1985-6)
 
+### Week 8-9
+
+#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
+
+### Week 10
+
 ## LabView learning materials
 
 ## Final Project and Presentation
