@@ -2,13 +2,13 @@
 
 You can find everything useful about the course Nanogenerators and Self-powered Systems (纳米发电机与自驱动系统 86000993).
 
-**Our Class time:** Monday 2PM - 4.25PM
+**Our Class time:** Monday 1.30PM - 4PM
 
 **Off-line class room:** 801 Information Building
 
 **Online classroom:** Tencent Meeting (VooV) 
-ID:389488748
-https://meeting.tencent.com/s/hqvFIBrok5lE
+ID:52325027819
+
 
 ### What is the TENG
 
