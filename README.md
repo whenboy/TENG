@@ -27,7 +27,7 @@ ID:52325027819
 
 ### Week 1
 
-#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/57df12b143f740cd9cfe/)
+Slides [PDF](https://cloud.tsinghua.edu.cn/f/57df12b143f740cd9cfe/)
 
 #### Mentioned Papers
 
@@ -39,25 +39,30 @@ ID:52325027819
 
 ### Week2
 
-#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/dea2005762d94aa4adf5/)
+Slides [PDF](https://cloud.tsinghua.edu.cn/f/dea2005762d94aa4adf5/)
 
 ### Week3
 
-#### Slides from guest speaker [PDF](https://cloud.tsinghua.edu.cn/f/e6f3d43bcd23401c9b09/)
+Slides from guest speaker [PDF](https://cloud.tsinghua.edu.cn/f/e6f3d43bcd23401c9b09/)
 
 ### Week4
 
-#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
+Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
 
 #### Mentioned Papers
 
  - [A Droplet to light 1000 LEDs](https://www.nature.com/articles/s41586-020-1985-6)
 
 ### Week 8-9
-
-#### Slides [PDF](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
+Theoretical Modeling and Power Management of Triboelectric Nanogenrators [Slides](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
 
 ### Week 10
+
+Lecture by Prof. Zhonglin Wang [Poster](https://www.tbsi.edu.cn/index.php?s=/cms/1627.html)
+
+### Week 11
+
+Piezotronics and Piezophotonics[MP4](https://www.youtube.com/playlist?list=PLtSxO1llzi4odq6ulrneFzCQ1S90CN9uh)
 
 ## LabView learning materials
 
