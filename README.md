@@ -53,6 +53,17 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
 
  - [A Droplet to light 1000 LEDs](https://www.nature.com/articles/s41586-020-1985-6)
 
+### Week 5 
+
+Lab Session 1
+LabView 360 [MP4](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
+
+### Week 6 
+
+Lab Session 2
+LabView Tutorial [ZIP]()
+
+
 ### Week 8-9
 Theoretical Modeling and Power Management of Triboelectric Nanogenrators [Slides](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
 
@@ -64,9 +75,13 @@ Lecture by Prof. Zhonglin Wang [Poster](https://www.tbsi.edu.cn/index.php?s=/cms
 
 Piezotronics and Piezophotonics[MP4](https://www.youtube.com/playlist?list=PLtSxO1llzi4odq6ulrneFzCQ1S90CN9uh)
 
-## LabView learning materials
-
 ## Final Project and Presentation
+
+Report your proposal to Prof Ding BEFORE week 14
+
+Presentation will be held in Week 16
+
+Final technical report / review paper submmit BEFORE week 18
 
 ### Option 1: Literature Review (No less than 150 papers)
 
