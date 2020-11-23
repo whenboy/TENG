@@ -63,7 +63,6 @@ LabView 360 [MP4](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
 Lab Session 2
 LabView Tutorial [ZIP]()
 
-
 ### Week 8-9
 Theoretical Modeling and Power Management of Triboelectric Nanogenrators [Slides](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
 
@@ -73,20 +72,21 @@ Lecture by Prof. Zhonglin Wang [Poster](https://www.tbsi.edu.cn/index.php?s=/cms
 
 ### Week 11
 
-Piezotronics and Piezophotonics[MP4](https://www.youtube.com/playlist?list=PLtSxO1llzi4odq6ulrneFzCQ1S90CN9uh)
+Piezotronics and Piezophotonics [MP4](https://www.youtube.com/playlist?list=PLtSxO1llzi4odq6ulrneFzCQ1S90CN9uh)
 
 ## Final Project and Presentation
-
-Report your proposal to Prof Ding BEFORE week 14
-
-Presentation will be held in Week 16
-
-Final technical report / review paper submmit BEFORE week 18
 
 ### Option 1: Literature Review (No less than 150 papers)
 
 ### Option 2: Technical Report
 
+- Please consulting your Proposal / Abstract (1-2 Pages) with Prof Ding **BEFORE Week 14**
+
+- Presentation will be held in **Week 16**
+
+- Final technical report / review paper submmit **BEFORE week 18**
+
+IEEE template (MS Word and LaTex) [ZIP](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
 
 ## Miscellaneous
 
