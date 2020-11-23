@@ -25,7 +25,7 @@ ID:52325027819
 
 ## Course Materials
 
-### Week 1
+### Week 1 Introduction
 
 Slides [PDF](https://cloud.tsinghua.edu.cn/f/57df12b143f740cd9cfe/)
 
@@ -37,15 +37,15 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/57df12b143f740cd9cfe/)
 
 - MIT media Lab [Energy Scavenging for Mobile and Wireless Electronics](https://ieeexplore.ieee.org/document/1401839)
 
-### Week2
+### Week2 Basic theories about Electrodynamics
 
 Slides [PDF](https://cloud.tsinghua.edu.cn/f/dea2005762d94aa4adf5/)
 
-### Week3
+### Week3 Piezophotonics
 
 Slides from guest speaker [PDF](https://cloud.tsinghua.edu.cn/f/e6f3d43bcd23401c9b09/)
 
-### Week4
+### Week4 Theories and simulations of TENG
 
 Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
 
@@ -53,17 +53,20 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/024e6b88851f4a0cb842/)
 
  - [A Droplet to light 1000 LEDs](https://www.nature.com/articles/s41586-020-1985-6)
 
-### Week 5 
+### Week 5 From Tribielectronics to New Energy
 
-Lab Session 1
+Lecture by Prof. Zhonglin Wang [mp4](https://cloud.tsinghua.edu.cn/f/6c124721fa20452a8e45/)
+
+### Week 6 Lab Session 1
+
 LabView 360 [MP4](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
 
-### Week 6 
+### Week 7 Lab Session 2
 
-Lab Session 2
-LabView Tutorial [ZIP]()
+LabView Tutorial [ZIP](https://cloud.tsinghua.edu.cn/f/78e53c0057f1425ea4f7/)
 
-### Week 8-9
+### Week 8-9 Figure of Merit of TENG
+
 Theoretical Modeling and Power Management of Triboelectric Nanogenrators [Slides](https://cloud.tsinghua.edu.cn/f/bcb0198682604509b06e/)
 
 ### Week 10
