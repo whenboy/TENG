@@ -77,6 +77,18 @@ Lecture by Prof. Zhonglin Wang [Poster](https://www.tbsi.edu.cn/index.php?s=/cms
 
 Piezotronics and Piezophotonics [MP4](https://www.youtube.com/playlist?list=PLtSxO1llzi4odq6ulrneFzCQ1S90CN9uh)
 
+### Week 12
+
+Robotics Exhibition
+
+### Week 13 TENG and enviromental energy collection
+
+Slides [PDF](https://cloud.tsinghua.edu.cn/f/8bd5407fda4d405bbd93/)
+
+### Week14 Advanced operation of Labview
+
+Slides [PDF](https://cloud.tsinghua.edu.cn/f/f76dd40049724f358d61/)
+
 ## Final Project and Presentation
 
 ### Option 1: Literature Review (No less than 150 papers)
