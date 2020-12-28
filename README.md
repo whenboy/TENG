@@ -101,7 +101,7 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/f76dd40049724f358d61/)
 
 - Final technical report / review paper submmit **BEFORE week 18**
 
-IEEE template (MS Word and LaTex) [ZIP](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
+IEEE template (MS Word and LaTex) [ZIP](https://cloud.tsinghua.edu.cn/f/d194ed13aa844edd80ac/)
 
 ## Miscellaneous
 
